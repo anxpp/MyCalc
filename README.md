@@ -1,5 +1,6 @@
 # MyCalc
 一个基于C++的MFC计算器
+```cpp
 class CExpression
    {
      int pos;
@@ -22,3 +23,4 @@ class CExpression
        void SetExpression(string exp);
        double Calculate();
    };
+```
