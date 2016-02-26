@@ -6,7 +6,7 @@ class CExpression
      int pos;
      char ch;
      string Expression;
-     //
+
      char GetChar();
      char GetNonWhitespace();
      void SkipWhitespace();
